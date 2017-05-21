@@ -1,0 +1,10 @@
+{
+  "firebaseConf": {
+    "apiKey": "AIzaSyCwbNyvxTkoFW-FKvmR8DuXbgHoZM_FNUg",
+    "authDomain": "ggongpei.firebaseapp.com",
+    "databaseURL": "https://ggongpei.firebaseio.com",
+    "projectId": "ggongpei",
+    "storageBucket": "ggongpei.appspot.com",
+    "messagingSenderId": "105613332754"
+  }
+}

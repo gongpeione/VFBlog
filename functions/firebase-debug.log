@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /Users/geeku/.nvm/versions/node/v7.0.0/bin/node /Users/geeku/.nvm/versions/node/v7.0.0/bin/firebase deploy
+[debug] CLI Version:  3.8.0
+[debug] Platform:     darwin
+[debug] Node Version: v7.0.0
+[debug] Time:         Sun May 21 2017 20:18:07 GMT+0800 (CST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/ggongpei  
+ Sun May 21 2017 20:18:07 GMT+0800 (CST)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/ggongpei/tokens  
+ Sun May 21 2017 20:18:08 GMT+0800 (CST)

@@ -1,14 +1,18 @@
 {
-  "database": {
-    "rules": "database.rules.json"
-  },
-  "hosting": {
-    "public": "public/dist",gi
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ]
-  }
+	"database": {
+		"rules": "database.rules.json"
+	},
+	"hosting": {
+		"public": "public/dist",
+		"rewrites": [
+			{
+				"source": "/geeku/**",
+				"function": "admin"
+			},
+			{
+				"source": "/",
+				"destination": "/index.html"
+			}
+		]
+	}
 }
